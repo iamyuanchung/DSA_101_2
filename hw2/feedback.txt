@@ -1,0 +1,32 @@
+//This file is using UTF8 encoding and Unix newid character.
+//If you're Windows users, PLZ use text editor (ex. notepad++.etc.) to open it.
+
+/***************/
+/* Test Result */
+/***************/
+
+Use 'make' command to compile ... Success.
+Try to find the executable file ... Success, found './main.exe'.
+
+Test data #1: Correct.
+Test data #2: Correct.
+Test data #3: Correct.
+Test data #4: Correct.
+Test data #5: Correct.
+Test data #6: Correct.
+Test data #7: Correct.
+Test data #8: Correct.
+Test data #9: Correct.
+Test data #10: Correct.
+
+=============
+
+report      5   /7  (reference needed)
+makefile    3   /3
+testdata    20  /20
+total       28  /30
+
+1. All testdata correct!
+
+2. Clear report and comments. However, reference is needed.
+

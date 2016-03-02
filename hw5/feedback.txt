@@ -1,0 +1,29 @@
+Student ID:    b01902040
+Submitted at:  Wed, 29 May 13 22:12:23 +0800
+Score:         25
+
+    Testdata: 20
+    Makefile: 2
+    Report:   3
+  
+============================================================
+
+     Your result
+
+ #1  Correct                  
+ #2  Correct                  
+ #3  Correct                  
+ #4  Correct                  
+ #5  Correct                  
+ #6  Correct                  
+ #7  Correct                  
+ #8  Correct                  
+ #9  Correct                  
+ #10 Correct                  
+
+============================================================
+
+1. Passed All testdata. Good job!
+
+
+  

@@ -1,0 +1,4 @@
+1.AddNode(),DelNode(),QueryNode()都是比較中規中矩的做法。其中  比較要注意的是QueryNode()這個函式:ptr總共走了兩次這棵BST的  高度->第一次是要得出差距最小的值min;第二次是使用store[2]這    個陣列，來儲存與query node差距最小的兩個data(最多就兩個)。  用陣列的原因是ptr行走過程中無法判定兩個節點值一定誰大誰小，   需要之後的判定。
+  所以如果這棵BST有N個節點的話，Time Complexity=O(N) (一根樹    枝)。
+
+2.關於各函式詳細情況與操作，source code都有註解。

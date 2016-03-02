@@ -1,0 +1,29 @@
+//This file is using UTF8 encoding and Unix newid character.
+//If you're Windows users, PLZ use text editor (ex. notepad++.etc.) to open it.
+
+/***************/
+/* Test Result */
+/***************/
+
+Use 'make' command to compile ... Success.
+Try to find the executable file 'main' or 'main.exe' ... Success.
+
+Test data #1: Correct.
+Test data #2: Wrong Answer.
+Test data #3: Correct.
+Test data #4: Correct.
+Test data #5: Wrong Answer.
+
+=============
+
+1.  the source code should be placed in dir. "hw1" rather than the root
+2.  the name of report should be report.txt rather than report.txt.txt
+3.  you should not use short int array to store the input, which may indicate to overflow.
+4.  Remember to write down the ref. of your homework
+(We'll apply some penalties next time)
+
+report  :   10 /10
+makefile:   2 /5
+    wrong directory name -3
+testdata:   9 /15
+total   :   21/30

@@ -1,0 +1,4 @@
+1.一開始輸入的M，決定了最大node的數量，我另外宣告了變數N=[sqrt(M)]，紀錄每個block能容納的node的數量。
+  另外宣告變數block_num=M/N+1紀錄block的最大使用量。
+
+2.詳細的操作，source code 有註解。

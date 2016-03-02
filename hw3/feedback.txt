@@ -1,0 +1,32 @@
+Student ID:    b01902040
+Submitted at:  Sat, 06 Apr 13 17:58:18 +0800
+Score:         28
+
+    Testdata: 20
+    Makefile: 4
+    Report:   4
+  
+============================================================
+
+     Your result
+
+ #1  Correct                  
+ #2  Correct                  
+ #3  Correct                  
+ #4  Correct                  
+ #5  Correct                  
+ #6  Correct                  
+ #7  Correct                  
+ #8  Correct                  
+ #9  Correct                  
+ #10 Correct                  
+
+============================================================
+
+1. All testdata passed. Good job!
+
+2. Reference not found in your report.txt. I'll check your hard copy later.
+   Your score will be added back (on your hard copy) if it's there.
+
+
+  
