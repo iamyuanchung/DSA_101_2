@@ -1,3 +1,3 @@
 # README #
 
-This repository contains my homework & project of Data Structures and Algorithms done at NTU during semester 101-2.
+This repository contains all of my materials of homework and projects finished during the 2013 Spring Data Structures and Algorithms (DSA) course at NTU.
